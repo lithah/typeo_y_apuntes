@@ -321,7 +321,8 @@ Organismos linfoides
     & El pals alverga
      % Linfocitos B (internos) & T (mas externos)
 
-contenidos guia
+Contenidos guia N°1 (traspasado con lens)
+Texto 1 ------------------------------
 
 El sistema inmune es el encargado de proteger nuestro cuerpo frente a agentes infecciosos como bacterias, virus y hongos Para ello, cuenta con diferentes niveles de defensa organizados en barreras primarias, secundarias y terciarias, que actacan de manera coordinada para evitar o eliminar la amenaza. La barrera primaria corresponde a los mecanismos físicos, químicos y biológicos que impiden la entrada de patógenos al cuerpo. Ejemplos de esta barrera son la piel, las mucosas, las lágrimas, la saliva y el moco de las vías respiratorias. Por ejemplo, si una persona sufre una cortadura, esta barrera se ve comprometida, permitiendo el ingreso de microorganismos. En este caso, el sistema inmune activa una segunda línea de defensa para controlar la infección.
 
@@ -332,7 +333,7 @@ Por su parte, la barrera terciaria corresponde a la inmunidad adaptativa, que es
 (una sustancia extraña), se transforman en células plasmáticas que producen anticuerpos, Estos circulan por la sangre y los fluidos del cuerpo, uniéndose a los patógenos para neutralizarios o marcarlos para su destrucción. Esta respuesta es especialmente eficaz contra bacterias y virus que están fuera de las células.
 
 
-texto 2
+Texto 2 -----------------------------
 En cambio, la respuesta celular está mediada por los linfocitos T. especialmente los linfocitos T Citotóxicos (CD8+) que destruyen directamente células infectadas por virus o células tumorales. También actúan los linfocitos T ayudadores (CD4+), que coordinan la respuesta inmune activando otras células, como los linfocitos B. los macrofagos y las células dendriticas. Esta respuesta es clave en en infecciones virales y en la detección de células
 
 anómalas. Un concepto clave es la selección clonal, Cada linfocito tiene receptores únicos para detectar un solo tipo de antigeno Cuando un linfocito reconoce su antigeno, se activa y se multiplica (clona) generando una respuesta específica y eficiente contra ese agente,
@@ -341,12 +342,10 @@ Por último, la respuesta inmune se desarrolla en varias fases. Primero ocurre e
 
 En resumen, el sistema inmune combina rapidez y especificidad gracias a la interacción entre la inmunidad innata y adaptativa. Sus células y órganos trabajan en conjunto para defender el organismo, generar memoria y responder cada vez mejor frente a las amenazas externas.
 
-texto 3
+Texto 3 ------------------------------
 
-El ciclo celular es un proceso fundamental en el cual una célula se divide y se duplica, generando dos células hijas idénticas. Comprende dos fases principales: la interfase y la mitosis. La interfase se divide a su vez en tres fases: la primera, conocida como G1, es un periodo de crecimiento celular y actividad metabólica intensa. Le #20 AÑOS FORMANDO EN FAMILIA"
+El ciclo celular es un proceso fundamental en el cual una célula se divide y se duplica, generando dos células hijas idénticas. Comprende dos fases principales: la interfase y la mitosis. La interfase se divide a su vez en tres fases: la primera, conocida como G1, es un periodo de crecimiento celular y actividad metabólica intensa. 
 
-15
-
-sigue la fase 5, donde tiene lugar la replicación del ADN, asegurando que cada célula hija reciba una copia completa del material genético. Finalmente, llegamos a la fase G2, donde la célula se prepara para la división celular. Una vez completada la interfase, la célula entra en la mitosis, un proceso de división nuclear que consta de cuatro fases: profase, metafase, anafase y telofase, culminando con la separación de los cromosomas y la formación de dos núcleos hijos.
+Le sigue la fase S, donde tiene lugar la replicación del ADN, asegurando que cada célula hija reciba una copia completa del material genético. Finalmente, llegamos a la fase G2, donde la célula se prepara para la división celular. Una vez completada la interfase, la célula entra en la mitosis, un proceso de división nuclear que consta de cuatro fases: profase, metafase, anafase y telofase, culminando con la separación de los cromosomas y la formación de dos núcleos hijos.
 
 Et ciclo celular y sus fases son esenciales para el crecimiento y la reproducción celular, cada paso es crucial pare garantizar la correcta división celular y la preservación de la información genética.
