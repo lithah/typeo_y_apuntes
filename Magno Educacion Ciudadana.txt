@@ -684,3 +684,148 @@ Incersion de Chile en la economia global
  - Negociaciones multilaterales
   * Aprovechar ventajas comparativas
   
+  2026 / 4to medio ---------------------------------------------------------------------------
+
+Codigo del trabajo (1931 - 1978) (fuente: Memoria chilena)
+ - Al comenzar la década de 1920, la candidatura de Arturo Alessandri Palma alentó las esperanzas 
+ de los trabajadores al manifestarse, en su campaña, a favor de promulgar una legislación social 
+ que armonizara las relaciones entre el capital y el trabajo como estaba sucediendo en Europa y 
+ Estados Unidos. Sin embargo, durante su gobierno los parlamentarios se mostraron más preocupados 
+ de legislar una ley que aumentaba su dieta parlamentaria que las leyes laborales. La situación 
+ resultó intolerable para la oficialidad del Ejército, la cual se manifestó con fuerza en el 
+ Parlamento el 8 de septiembre de 1924, exigiendo la aprobación de dieciseis leyes, entre ellas 
+ importantes leyes laborales.
+
+ - Después de los convulsionados sucesos políticos que llevaron al poder al general Carlos Ibáñez del 
+Campo en 1927, comenzó la aplicación de la nueva legislación laboral. La gran diversidad de leyes 
+laborales, reglamentos y decretos relacionados con su aplicación, hizo necesaria la dictación de un 
+solo cuerpo legal para facilitar su estudio, divulgación y aplicación. Es así como, el 6 de 
+febrero de 1931, fue aprobado en el Congreso Nacional el Código del Trabajo refundiendo en un 
+solo texto catorce leyes y decretos leyes relacionados con el mundo del trabajo.
+ 
+Ley laboral (1978 - 1994)
+ - A fines de la década de 1970, la dictadura militar dictó una serie de decretos leyes conocidos
+como «Plan Laboral», los cuales fueron progresivamente desmantelando la estructura normativa de 
+la legislación laboral contenida en el Código del Trabajo de 1931. Ante la necesidad de codificar 
+la nueva legislación, se constituyeron diversas comisiones para tal efecto.
+
+ - En mayo de 1986, por medio del Decreto Supremo Nº90, se designó una nueva comisión presidida por 
+William Thayer Arteaga, con el objeto de elaborar un anteproyecto de Código del Trabajo ajustado a
+la legislación vigente. Esta comisión estuvo integrada además por los juristas Ximena Gutiérrez, 
+Alfredo Bowen, Rubén Mera, Patricio Novoa, Alfredo Valdés, Sergio Reiss y Luis Giacchino, este 
+último como secretario. Posteriormente se incorporó Daniel Bernales.
+
+ - De esta comisión surgió un proyecto de Código del Trabajo, aprobado por la Junta de Gobierno. Fue 
+publicado como Ley Nº18.620 en el Diario Oficial el 6 de julio de 1987, la cual empezó a regir 30 
+días después de su publicación.
+
+ - El 24 de enero de 1994, se publicó el Decreto con Fuerza de Ley N.º 1 del Ministerio del Trabajo y 
+Previsión Social, que dispuso la dictación de un nuevo Código del Trabajo, que reemplazó al de 1987.
+
+   # CUT = 1991 - hoy (actualmente compuesta del 13% de los trabajadores Chilenos; aprox)
+   # Los sindicatos fueron definidos por ley con la llegada del codigo del trabajo (1924), durante
+   el gobierno de Arturo Alessandri
+
+Derecho laboral 
+ - Concepto de trabajo decente (según OIT)
+  * Libertad para que los individuos expresen sus opiniones, se organicen y participen en las 
+  decisiones que afectan sus vidas.
+  * Igualdad de oportunidades y trato para todos, mujeres y hombres.
+  * Oportunidad de acceder a un empleo productivo que genere un ingreso justo.
+  * Seguridad en el lugar de trabajo y la protección social para las familias.
+  * Mejores perspectivas de desarrollo personal e integración social.
+
+Mercado laboral
+ - Oferta laboral + demanda laboral
+  * Se entiende como la interaccion entre quienes requieren trabajo y quienes lo otorgan
+   # En plano de igualdad y libertad
+   # Se acuerdan condiciones
+
+Relaciones individuales del mercado laboral
+ - Negocia el empleador directamente con el empleado las condiciones
+  * Jornada, funciones, salario
+ - Se acuerda mediante contrato, segun norma
+
+Relaciones individuales del mercado laboral
+ - Entre trabajadores y empleadores, forman Unidad
+ - Equipara la Desigualdad
+
+  # Libre cambismo = En su obra "La riqueza de las naciones" publicada en 1776, Smith argumentaba 
+  que el comercio internacional es beneficioso para todas las naciones, ya que permite que cada una 
+  se especialice en la producción de los bienes en los que es más eficiente, lo que conduce a una
+  mayor productividad y riqueza. Además, Smith defendía que los aranceles y las restricciones al
+  comercio limitan la competencia y elevan los precios, lo que perjudica al consumidor. (según ismos.es)
+
+  # Modelo Neoliberal = El neoliberalismo volvió a resurgir en 1974, en Chile. Tras el golpe de Estado
+  de Augusto Pinochet, el país pasaba por una grave crisis económica. Para superarla, el nuevo 
+  gobierno buscó ayuda en la llamada Escuela de Chicago, un grupo de economistas encabezados por
+  Milton Friedman. Las medidas implantadas en Chile siguieron totalmente las ideas neoliberales. 
+  Se privatizaron las empresas públicas y se dio primacía a lo privado. (según lifeder.com)
+
+  # CONARA = Comisión Nacional de la Reforma Administrativa, que fue creada a fines de 1973,
+   organismo que estuvo encargado de la conducción de una reforma administrativa integral, destinada 
+   a adecuar la organización estructural, funcional y territorial de la Administración Pública; junto
+    con la misión de estudiar y proponer medidas tendientes a hacer efectiva una adecuada 
+    regionalización administrativa del país. (según decentralizachile.cl)
+
+Responsabilidad civil
+ - Capacidad existente en todo sujeto de derecho, para reconocer y aceptar las consecuencias de un
+ hecho realizado libremente
+  * Vivir libremente
+  * No dañar al otro
+  * Dar a cada uno lo suyo
+ - Responder y responsabilizarse por daño cometido
+
+Responsabilidades ciudadanas
+ - Cumplimiento de leyes y Normas
+  * Aceptacion positiva
+   # Aceptar el daño causado
+  * Aceptacion negativa
+   # Abstenerse de accionar daño en ajenos
+
+   # Mientras que la constitucion de 1925 define 16 provincias; al llegar el golpe de estado; se
+definieron 25 provincias
+
+Obligaciones tributarias
+ - impuestos
+  * Deducciones / Descuentos legales y obligatorios que se hacen exigibles a las rentas de personas/empresas
+  * Hay dos tipos
+   # Directos: se exigen sobre ingresos de personas o empresas; ej: impuesto a la renta
+   # indirectos: Gravan el consumo de las personas, hay generosas (iva), y especiales (cigarros)
+  * Impuesto de 1ra categoria 
+   # aplicado a empresas
+  * Impuesto de 2ra categoria 
+   # aplicado a personas
+
+   # el IVA es el que mas genera al estado, debido al consumismo
+
+Problemas y desafios de la sociedad actual
+ - Libertad de expresion
+ - libertad de imprenta
+ - Principio de diversidad cultural
+  * Se dice que algunos de estos problemas tienen que ver con la concentracion del sesgo politico a
+  la derecha
+
+  # Participacion: intervenir o ser parte de un proceso que concierne a un grupo o Comunidad
+  # Ciudadania: Derechos y deberes a los cuales uno esta abscrito en relacion a la sociedad actual
+  # Convivencia: Compartir y convivir pacificamente en Comunidad
+
+Caracteristicas Modelo Ladrillo
+ - Desregulacion economica
+  * Se bajan los aranceles fuertemente (muy bajos)
+ - Desproteccionismo
+ - Rol limitado del estado en la economia
+  # 90% privados, 10% estado
+ - Influencia del mercado
+  * Precios fijados por el mercado
+ - Fomento a las pymes
+  * ProChile: Presente en todas las embajadas, para apoyar pymes a vender en el extranjero
+ - Deuda subordinada
+  * Quiebran todas las empresas; ej: bancos
+  * Privatizacion ganancias, socializacion deudas
+
+El sindicato en Chile
+ - Organizaciones de trabajadores destinados a defender intereses
+  * 11550 organizaciones
+  * 1,25 millones de personas
+  * 19,9% afiliados
