@@ -326,6 +326,50 @@ Reformas sociales, laborales y educacionales (apenas iniciado golpe)
    # Modelo keynesiano = Estado benefactor/De bienestar = Modelo ISI
    # Gastos sociales = Salud, Educacion y Vivienda
    
-   (Clase 60) -------- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+   (Clase 60) -------- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!}
 
- 
+
+  
+  2026 / 4to medio ---------------------------------------------------------------------------
+
+  # en 1848, Eugene Delacroix pinto a "libertad guiando al pueblo", la famosa pintura falsamente 
+  atribuida a la revolucion francesa (1789 - 1793)
+
+Regimen Presidencialista
+ - Cesarismo representativo (Cesarismo -> persona que posee mucho poder)
+ - Poder normado según carta fundamental
+ - Autoridad proviene de una eleccion directa
+ - Labores coercitivas
+  * Iniciativa de Ley
+  * Participa en debate parlamentario
+  * Voto parcial (aditivo, supremo, sustitutivo)
+
+   # Enmienta = Reforma
+   # 1962 = Reforma macetero (15.020)
+    ~ Falló por "derecho de propiedad"
+  # 1967 = Reforma agraria exitosa
+
+Regimen semipresidencial
+ - Ejecutivo Dualista
+ - Jefe de estado (voto popular)
+ - Comparte el Ejecutivo con el Premier / Primer Ministro (Primer Ministro es elegido por parlamento)
+ - Presidente es independiente del parlamento.
+ - Primer Ministro y gabinete es independiente del Presidente.
+ - Presidente no puede destituir al Premier / Primer Ministro
+ - Balance de poder
+
+Valores de la Democracia
+ - Principios democraticos
+  * Participacion ciudadana
+  * Pluralismo y tolerancia
+  * Concenso fundamental
+ - Caracteristicas de la democracia Chilena
+  * Caracter Presidencial 
+  * Democracia electoral
+  * sufragio como elemento de poder
+   # Personal
+   # Igualitario
+   # Secreto
+   # Universal
+
+   

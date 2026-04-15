@@ -235,3 +235,118 @@ Sistema inmune
 Anticuerpos
  - Los patogenos contienen ciertas proteinas, lo que hacen los anticuerpos es anclarse a estas proteinas,
  y en conjunto con otras celulas del sistema inmune, fagocitar el patogeno.
+
+-------------------------- 2026 --------------------------------------------
+
+Unidad de repaso (1)
+
+ # Los Mecanismos de defensa tardan hasta 5 meses en recuperarse despues de una infeccion con Covid-19
+
+Sistema inmune
+ - conjunto de celulas, tejidos, y organos que protejen al organismo de distintos patogenos
+  * Reconocimiento de lo extraño
+  * Eliminacion
+  * Memoria inmunologica
+   # Antigeno = Molecula extraña
+   # Linfocito = Celulas blancas especializadas
+   # Macrofagos = Engullen Patogenos (se los comen)
+   # Patogenos = microorganismo que provoca enfermedad
+   # Celula dendritica = Presentan antigenos a los Linfocitos
+
+Inmunidad innata 
+ - Respuesta rapida, presente desde el momento
+  * Piel, mucosa, Celulas fagociticas
+Inmunidad adaptativa
+ - Respuesta especifica, genera memoria
+  * Linfocitos T & B
+
+Barreras defensivas
+ - 1ra = Barreras fisicas
+  * Piel = Herida causada en esta genera alta liberacion de histamina
+  * Mucosa = El mucus de las mucosas respiratorias retiene patogenos, los cilios los arrastran, 
+  y el estornudo los expulsa.
+  * Estras = pH Estomacal, la Lisocima de las lagrimas, Flora intestinal y fiebre; etc
+
+ - 2da = Respuesta innata
+  * Actua cuando los patogenos entran al organismo
+   # Respuesta adquirida
+   # No especifica
+   # Participan Celulas y proteinas del sistema inmune
+    & Neutrófilos: fagocitan y eliminan bacterias (respuesta rápida).
+    & Macrófagos/monocitos: fagocitosis, limpieza y producción de citocinas.
+    & Células dendríticas (innatas): detección y captura de patógenos; activan inflamación.
+    & Células NK: matan células infectadas/ tumorales.
+    & Eosinófilos: contra parásitos multicelulares.
+    & Mastocitos/basófilos: liberan histamina y mediadores inflamatorios.
+   # Respuesta Inflamatoria
+
+ - 3ra = Inmunidad adaptativa
+  * Genera respuesta especifica para cada patogeno y sus antigenos
+   # Detecta
+   # Elimina
+   # Previene (memoria)
+
+Varias celulas stem pasan por un proceso llamado Hematopoyesis, en le que se tranforman en otro tipo de
+celula con algun tipo de especializacion
+
+Respuesta Inflamatoria (reaccion a la infeccion o lesion)
+ - Caracteristicas
+  * Enrojecimiento
+  * Dolor
+  * calor
+  * Hinchazon
+ - Funcion
+  * Aumento flujo defensivo
+  * Llegada celulas defensivas
+
+
+Organismos linfoides
+ - Medula osea
+  * Organo linfoide primario donde se producen y maduran Linfocitos B (y otros), a partir de celulas
+  progenitoras Hematopoyeticas
+ - Timo
+  * Organo linfoide primario en el mediastino, donde los Linfocitos T maduros se desarrollan y se 
+   seleccionan para convertirse en Linfocitos T maduros y formados
+ - Ganglios linfaticos / Linfonodos
+  * Estan en los conductos linfaticos
+  * Recoje la linfa, actuando como filtro para evitar el paso de microorganismos
+ - Amigdalas/Tonsilos
+  * Ubicadas en la entrada de la faringe
+  * Aportan Linfocitos al sistema circulatorio
+ - Bazo
+  * Pulpa roja con eritrocitos
+   # filtra la sangre, captura y destruye eritrocitos viejos
+  * Pulpa blanca
+   # Contiene tejido linfoide PALS (vaina alveiolar linfoide)
+    & El pals alverga
+     % Linfocitos B (internos) & T (mas externos)
+
+contenidos guia
+
+El sistema inmune es el encargado de proteger nuestro cuerpo frente a agentes infecciosos como bacterias, virus y hongos Para ello, cuenta con diferentes niveles de defensa organizados en barreras primarias, secundarias y terciarias, que actacan de manera coordinada para evitar o eliminar la amenaza. La barrera primaria corresponde a los mecanismos físicos, químicos y biológicos que impiden la entrada de patógenos al cuerpo. Ejemplos de esta barrera son la piel, las mucosas, las lágrimas, la saliva y el moco de las vías respiratorias. Por ejemplo, si una persona sufre una cortadura, esta barrera se ve comprometida, permitiendo el ingreso de microorganismos. En este caso, el sistema inmune activa una segunda línea de defensa para controlar la infección.
+
+La barrera secundaria corresponde a la inmunidad innata, que es la primera línea de respuesta interna del cuerpo. Es rápida y no específica, lo que significa que actúa igual frente a distintos patógenos. Aquí participan principalmente las células de la línea mieloide, como los macrófagos, que fagocitan (engullen) a los invasores, los neutrófilos, que son las primeras células en llegar al sitio de Infección, los eosinófilos, que participan especialmente en infecciones parasitarias y reacciones alérgicas, los basófilos, que liberan sustancias inflamatorias como la histamina, y los mastocitos, presentes en tejidos, que también participan en respuestas alérgicas e inflamatorias, También son clave los monocitos, que circulan por la sangre y se transforman en macrófagos o células dendríticas al llegar a los tejidos. Estas últimas son fundamentales en el puente entre Inmunidad innata y adaptativa, ya que capturan antigenos y los presentan a los linfocitos T para iniciar la respuesta específica. Además, las células NK (Natural Killer), que son parte de la linea linfoide, pero pertenecen a la inmunidad Innata, reconocen y destruyen células infectadas por virus o células tumorales sin necesidad de reconocimiento específico. Son clave en la defensa temprana frente a infecciones virales. Continuando con el ejemplo de una cortadura, frente a una infección bacteriana, todas estas células actúan para contener la amenaza en las primeras horas.
+
+Por su parte, la barrera terciaria corresponde a la inmunidad adaptativa, que es más lenta pero altamente específica. Esta respuesta es capaz de reconocer características únicas de cada patógeno y generar memoria para respuestas futuras Está a cargo de las células de la línea linfoide, como los linfocitos By T. Esta barrera es esencial cuando la inmunidad innata no logra eliminar completamente al patógeno. El sistema inmune adaptativo tiene dos formas principales de actuar frente a los patógenos, la respuesta humoral vs respuesta celular, La respuesta humoral es llevada a cabo principalmente por los linfocitos Cuando detectan un antigeno
+
+(una sustancia extraña), se transforman en células plasmáticas que producen anticuerpos, Estos circulan por la sangre y los fluidos del cuerpo, uniéndose a los patógenos para neutralizarios o marcarlos para su destrucción. Esta respuesta es especialmente eficaz contra bacterias y virus que están fuera de las células.
+
+
+texto 2
+En cambio, la respuesta celular está mediada por los linfocitos T. especialmente los linfocitos T Citotóxicos (CD8+) que destruyen directamente células infectadas por virus o células tumorales. También actúan los linfocitos T ayudadores (CD4+), que coordinan la respuesta inmune activando otras células, como los linfocitos B. los macrofagos y las células dendriticas. Esta respuesta es clave en en infecciones virales y en la detección de células
+
+anómalas. Un concepto clave es la selección clonal, Cada linfocito tiene receptores únicos para detectar un solo tipo de antigeno Cuando un linfocito reconoce su antigeno, se activa y se multiplica (clona) generando una respuesta específica y eficiente contra ese agente,
+
+Por último, la respuesta inmune se desarrolla en varias fases. Primero ocurre el reconocimiento, cuando el sistema detecta un antigeno extraño. Luego viene la activación, donde las células específicas se multiplican. Después, durante el ataque, las células inmunes destruyen al invasor o lo neutralizan. Por consiguiente, viene una fase de declinación donde se produce la muerte de los linfocitos estimulados por los antígenos. Finalmente, queda una fase de memoria donde se conservan linfocitos específicos que recordarán al patógeno en futuras exposiciones. La memoria inmunológica es lo que permite una respuesta más rápida y eficaz si el mismo agente vuelve a ingresar al cuerpo. Esta propiedad es la base de las vacunas, que enseñan al sistema inmune a reconocer un patógeno sin causar la enfermedad
+
+En resumen, el sistema inmune combina rapidez y especificidad gracias a la interacción entre la inmunidad innata y adaptativa. Sus células y órganos trabajan en conjunto para defender el organismo, generar memoria y responder cada vez mejor frente a las amenazas externas.
+
+texto 3
+
+El ciclo celular es un proceso fundamental en el cual una célula se divide y se duplica, generando dos células hijas idénticas. Comprende dos fases principales: la interfase y la mitosis. La interfase se divide a su vez en tres fases: la primera, conocida como G1, es un periodo de crecimiento celular y actividad metabólica intensa. Le #20 AÑOS FORMANDO EN FAMILIA"
+
+15
+
+sigue la fase 5, donde tiene lugar la replicación del ADN, asegurando que cada célula hija reciba una copia completa del material genético. Finalmente, llegamos a la fase G2, donde la célula se prepara para la división celular. Una vez completada la interfase, la célula entra en la mitosis, un proceso de división nuclear que consta de cuatro fases: profase, metafase, anafase y telofase, culminando con la separación de los cromosomas y la formación de dos núcleos hijos.
+
+Et ciclo celular y sus fases son esenciales para el crecimiento y la reproducción celular, cada paso es crucial pare garantizar la correcta división celular y la preservación de la información genética.
