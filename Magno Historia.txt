@@ -372,4 +372,41 @@ Valores de la Democracia
    # Secreto
    # Universal
 
-   
+Sistema electoral en Chile
+ - El sistema electoral sirve para distribuir y asignar los distintos cargos politicos
+ - Sistemas electorales en Chile
+ - Sistema de mayoria absoluta con 2da vuelta (para el presidente)
+ - Sistema binominal
+ - Sistema mayoria simple
+ - Proporcional inclusivo
+
+Supremacia constitucional
+ - Constitucion politica (Norma superior)
+ - Principios constitucionales
+  * Interpretacion de leyees con arreglo constitucion (??)
+  * Vinculacion directa Constitution
+  * Conservacion de la norma
+  * Interduccion de la arbitrariedad (se frena y analiza)
+
+Impuestos
+  # Para modernizar las carreteras, con doble via, se necesitaba financiamiento, por el cual, el estado
+  decidio aplicarle un impuesto de 1/3 al precio del petroleo; pero esto no funciono del todo, por lo que
+  se concesionaron las carreteras Chilenas a cualquier capital que decidiese mantenerlas 
+  (principalmente extranjeros)
+  # Al concesionar, se les paga lo invertido con el dinero de los peajes
+  # El MEPCO es un subsicio que el estado de chile da para regular el precio de las gasolinas
+  # El 60% de los productos de la canasta familiar son extranjeros
+
+¿Que instituciones demuestran la tributacion en Chile?
+
+ - El SII (fiscaliza los impuestos internos)
+ - El Servicio nacional de aduanas, encargado de la recaudacion y cobranzas de los impuestos internos Y
+ aduanas
+ - La tesoreria general de la republica, encargada de la recaudacion y cobranzas de los impuestos
+ internos y aduaneros
+
+¿Que tipos de impuestos existen?
+
+ - Directos: Gravan o afectan la obtencion de las riquezas
+ - Indirectos: Afectan a las riquesas, gravando actos y cantidad
+
