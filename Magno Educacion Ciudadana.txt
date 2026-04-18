@@ -911,4 +911,78 @@ Objetivos del Servicio de impuestos internos (SII)
  - Verifica el cumplimiento tributario de los contribuyentes
  - Incentivar la voluntariedad de los pagos
  - Mejorar en la percepcion de dichos pagos
- - Las notificaciones 
+ - Las notificaciones no son un objeto (avisan infracciones cometidas)
+ - infracciones leves (labor pedagogica)
+
+¿Como fiscaliza?
+    - Control carretero
+    - Emisión de documentos
+    - Puerto fijo / aduanas
+    - Auditoría contable/documental
+    - Cruces electrónicos / minería de datos
+    - Inspección presencial a locales
+    - Revisión de retenciones y declaraciones juradas
+    - Fiscalización electrónica de sistemas
+    - Operativos sectoriales
+    - Investigaciones forenses y complejas
+    - Requerimientos formales y citaciones
+    - Sanciones y liquidaciones
+
+  # Suntuario = Bien de lujo
+
+-------------------------------------- CAMBIO DE UNIDAD -----------------------------
+
+Demografia
+
+Planificacion territorial
+ - Establecer que tipo de espacio se aborda
+ - Desde el siglo XX se ha presentado el crecimiento citadino (tanto horizontal como vertical)
+ - Conciderar abastecimientos (calidad de vida de las personas va primero)
+ - Considerar rasgos naturales de region
+ - Concervacion del medio ambiente
+
+Explosion demografica
+ - por Robert Malthus
+  * Crea el maltusianismo
+
+Problemas y desafios globales
+ - Competencia de las grandes multinacionales extranjeras
+ - el uso responsable de los recursos naturales
+ - Desarrollo sustentable
+ - Objetivos del milenio
+  * Erradicar la pobresa extrema y el hambre
+  * Lograr la enseñanza primario Universal
+  * Promover la igualdad de genero y la autonomia de la mujer
+  * Reducir mortalidad infantil
+  * Combatir el VIH/Sida, el paludismo, y otras enfermedades
+  * Garantizar la sostenibilidad del medio ambiente
+  * Fomentar una asociacion global para el desarrollo
+
+Objetivos de la regionalizacion
+ - concentracion
+  * Gran porcentaje de la poblacion nacional solo en algunas localidades
+  * Actividades economicas agrupadas
+  * Recursos escasamente ocupados
+  * Desequilibrios y desigualdades entre ciudades grandes y pequeñas
+
+Mercado de trabajo en Chile
+ - Los empleados de Chile estan sujetos al mercado
+  * Empleados aumentan o disminuyen la oferta de trabajo según necesidad
+  * Personas ofrecen sus trabajos segun capacidades
+  * Estructura de la poblacion (Paises con poblacion Joven y Adulta)
+   # 1,5 hijos por familia, se requieren 2,2 hijos para mantener taza muerte/nacimiento estable)
+ - Las migraciones
+ - Incorporacion de la mujer al trabajo
+ - Alta segmentacion del mercado de trabajo Chileno 
+
+Salario Minimo/Nominal
+ - Sueldo minimos 
+  * Fijado por ley
+  * Se aplica al sueldo base
+  * Se aplica a trabajadores con jornada completa de trabajo
+ - Con este salario se proteje al trabajador menos calificado
+ - Salario real (poder adquisitivo real del trabajador)
+  
+
+
+ 
