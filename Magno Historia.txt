@@ -337,12 +337,14 @@ Reformas sociales, laborales y educacionales (apenas iniciado golpe)
 
 Regimen Presidencialista
  - Cesarismo representativo (Cesarismo -> persona que posee mucho poder)
+   # Democracia directa = se buscan políticas e iniciativas; sin necesidad de un representante 
  - Poder normado según carta fundamental
- - Autoridad proviene de una eleccion directa
+ - Autoridad proviene de una eleccion competitiva
  - Labores coercitivas
   * Iniciativa de Ley
-  * Participa en debate parlamentario
-  * Voto parcial (aditivo, supremo, sustitutivo)
+  * Participa en debate parlamentario (via SegPres)
+  * Declaracion de urgencia (check!!!!!!!)
+  * Veto parcial (aditivo, supresivo, sustitutivo)
 
    # Enmienta = Reforma
    # 1962 = Reforma macetero (15.020)
@@ -351,8 +353,9 @@ Regimen Presidencialista
 
 Regimen semipresidencial
  - Ejecutivo Dualista
- - Jefe de estado (voto popular)
+ - Jefe de estado (Presidente) (voto popular)
  - Comparte el Ejecutivo con el Premier / Primer Ministro (Primer Ministro es elegido por parlamento)
+   # El jefe de gobierno = Premier
  - Presidente es independiente del parlamento.
  - Primer Ministro y gabinete es independiente del Presidente.
  - Presidente no puede destituir al Premier / Primer Ministro
@@ -366,7 +369,7 @@ Valores de la Democracia
  - Caracteristicas de la democracia Chilena
   * Caracter Presidencial 
   * Democracia electoral
-  * sufragio como elemento de poder
+  * Sufragio como elemento de poder
    # Personal
    # Igualitario
    # Secreto
@@ -409,4 +412,17 @@ Impuestos
 
  - Directos: Gravan o afectan la obtencion de las riquezas
  - Indirectos: Afectan a las riquesas, gravando actos y cantidad
+
+Caracteristicas de los impuestos
+ - Proporcional
+  * Maxima taza impositiva en funcion de ganancias devengadas
+ - Progresivo
+  * Dependiendo de las ganancias de los particulares
+ - Regresivo
+  * Relacion inversamente proporcional al nivel de impuestos
+
+¿Por que el estado cobra impuestos?
+ 
+ - Recursos para sus funciones politico-administrativas
+ - Principio del
 
