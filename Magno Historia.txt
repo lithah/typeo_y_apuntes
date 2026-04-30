@@ -386,7 +386,7 @@ Sistema electoral en Chile
 Supremacia constitucional
  - Constitucion politica (Norma superior)
  - Principios constitucionales
-  * Interpretacion de leyees con arreglo constitucion (??)
+  * Interpretacion de leyes con arreglo constitucion (??)
   * Vinculacion directa Constitution
   * Conservacion de la norma
   * Interduccion de la arbitrariedad (se frena y analiza)
@@ -415,14 +415,56 @@ Impuestos
 
 Caracteristicas de los impuestos
  - Proporcional
-  * Maxima taza impositiva en funcion de ganancias devengadas
+  * Maxima taza impositiva en funcion de ganancias devengadas (aumenta el valor del impuesto segun lo
+  que se gaste)
  - Progresivo
   * Dependiendo de las ganancias de los particulares
  - Regresivo
-  * Relacion inversamente proporcional al nivel de impuestos
+  * Relacion inversamente proporcional al nivel de ingresos
+   # Aquel en el que las personas de menores ingresos pagan una mayor proporcion de sus ganancias por
+   los mismos bienes
+   # Por ejemplo; el IVA hace que una persona que gana mucho paga $30.000; y no es tan fuerte el
+   impacto sobre sus ganancias; mientras que alguien de menores ingresos tambien paga $30.000; pero
+   el impacto sobre sus ganancias será mayor (aunque ambos paguen el 19%)
 
 ¿Por que el estado cobra impuestos?
  
  - Recursos para sus funciones politico-administrativas
- - Principio del
+ - Principio del mayor beneficio (+ganancias, +impuestos)
+ - Principio de la capacidad de pago (+capacidad de pago, +impuestos)
 
+Tipos de impuestos
+ - Directos
+  * Impuesto a la renta
+     # Para personas naturales
+      & Impuesto de 2da categoria
+       % A personas (a trabajadores independientes cuando su sueldo excede 13,5 UTM)
+      & Impuesto global complementario
+       % Aplicado a cualquier persona natural (con domicilio en Chile) basado en sus ganancias
+  * Impuesto para utilidades empresariales
+
+Caracteristicas del impuesto a la renta
+ - Los sujetos deben ser personas naturales
+ - La base imponible se compone por todas las rentas percibibles
+ - Todo se concreta en 2 impuestos finales
+  * Impuesto global complementario (residentes)
+  * Impuesto adicional (no residentes)
+
+Impuestos Indirectos
+ - A ventas y a servicios
+  * IVA
+   # IVA al debito final 
+   # IVA al credito final 
+  * Impuesto a bebidas alcoholicas, analcoholicas a granel (revisar)
+  * Impuesto a productos suntuarios
+
+Principales caracteristicas del IVA 
+ - Es el que mas recauda al estado (mayor redundancia tributaria)
+ - Base de taza es del 19%
+ - No contempla regimenes especiales
+ - Posee muy pocas excepciones
+ - Afecta al Consumo
+
+   # Impuesto de primera categoria = De las rentas del capital y de las empresas comerciales, 
+   industriales, mineras y otras.
+   # Impuesto de segunda categoria = De las rentas del trabajo.
